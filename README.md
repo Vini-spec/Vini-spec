@@ -4,7 +4,7 @@
 - Обо мне: **Активно погружаюсь в IT-сферу. С каждым днем совершенствую свои навыки в frontend web-разработке, начал с верстания макетов сайтов(HTML,CSS) в Figma, сейчас больше времени уделяю решению типовых задач на JavaScript.**
 
 - Как связаться со мной: <div>
-    <a href='@Danil_Alekseevich12'> 
+    <a href='t-do.ru/@Danil_Alekseevich12'> 
       <img src='https://img.shields.io/badge/telegram-27a7e7'>
     </a>
     <a href="mailto:vinogradovdanil.d12@email.com">
